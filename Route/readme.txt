@@ -21,7 +21,7 @@ IIS 7 & IIS 8
 
 4. In the Actions pane, click Enable to use Windows authentication.
 5. On the Authentication page, select Anonymous authentication.
-6. In the Actions pane, click Disable to disable anonymous authentication.
+6. In the Actions pane, click Disable to disable anonymous authentication.   
 
 IIS Express
 1. Click on your project in the Solution Explorer to select the project.
