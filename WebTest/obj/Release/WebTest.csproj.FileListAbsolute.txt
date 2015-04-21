@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2012\Projects\WebTest\WebTest\bin\WebTest.dll
+D:\Documents\Visual Studio 2012\Projects\WebTest\WebTest\bin\WebTest.pdb
+D:\Documents\Visual Studio 2012\Projects\WebTest\WebTest\obj\Release\WebTest.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\WebTest\WebTest\obj\Release\WebTest.dll
+D:\Documents\Visual Studio 2012\Projects\WebTest\WebTest\obj\Release\WebTest.pdb
